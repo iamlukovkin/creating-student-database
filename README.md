@@ -9,3 +9,5 @@ Tables:
 
 Filling scripts:
 - [Table with arrays](./fill_table_with_arrays.sql)
+- [Table with jsons](./fill_table_with_jsons.sql)
+
